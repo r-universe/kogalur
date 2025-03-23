@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "randomForestSRC"]
 	path = randomForestSRC
-	url = https://github.com/cran/randomForestSRC
+	url = https://github.com/kogalur/randomforestsrc
 [submodule "spikeslab"]
 	path = spikeslab
 	url = https://github.com/cran/spikeslab
