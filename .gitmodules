@@ -8,3 +8,6 @@
 [submodule "spikeslab"]
 	path = spikeslab
 	url = https://github.com/cran/spikeslab
+[submodule "varPro"]
+	path = varPro
+	url = https://github.com/kogalur/varpro
