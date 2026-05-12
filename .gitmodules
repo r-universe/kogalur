@@ -8,6 +8,9 @@
 [submodule "randomForestRHF"]
 	path = randomForestRHF
 	url = https://github.com/cran/randomForestRHF
+[submodule "randomForestSGT"]
+	path = randomForestSGT
+	url = https://github.com/kogalur/randomforestsgt
 [submodule "randomForestSRC"]
 	path = randomForestSRC
 	url = https://github.com/kogalur/randomforestsrc
