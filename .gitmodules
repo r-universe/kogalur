@@ -7,7 +7,7 @@
 	url = https://github.com/cran/boostmtree
 [submodule "randomForestRHF"]
 	path = randomForestRHF
-	url = https://github.com/cran/randomForestRHF
+	url = https://github.com/kogalur/randomforestrhf
 [submodule "randomForestSGT"]
 	path = randomForestSGT
 	url = https://github.com/kogalur/randomforestsgt
